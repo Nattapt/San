@@ -6,7 +6,7 @@ import UIKit
 
 //การประกาศตัวแปร แบบที่สามารถแก้ไขค่าได้
 //นี่คือการประกาศตัวแปร แบบ String ที่ใช้ค่าในการกำหนด DataType
-var nameString = "Pod"
+var nameString = "Nattapat"
 var numberInt = 123
 var numberDouble = 12.34
 var statusBol = true
@@ -20,4 +20,14 @@ numberInt = 321
 let conNameString = "Nobita"
 
 //conNameString = "Doramon" ไม่สามารถทำได้ เพราะเป็น let
+
+//การประกาศตัวแปรแบบกำหนด Data Type
+var surname: String = "Ubonrat"
+var myNumber: Int = 321
+var myManyNumber:Double = 21.123
+var myStatus:Bool = false
+
+
+
+
 
