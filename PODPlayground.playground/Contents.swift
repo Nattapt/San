@@ -22,10 +22,15 @@ let conNameString = "Nobita"
 //conNameString = "Doramon" ไม่สามารถทำได้ เพราะเป็น let
 
 //การประกาศตัวแปรแบบกำหนด Data Type
-var surname: String = "Ubonrat"
+var surename: String = "Ubonrat"
 var myNumber: Int = 321
 var myManyNumber:Double = 21.123
 var myStatus:Bool = false
+
+//การแสดงบน Console
+print("Normal String")
+print("Name = \(nameString) Surname = \(surename)")
+print("Integer = \(numberInt)")
 
 
 
