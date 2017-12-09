@@ -16,3 +16,8 @@ nameString = "Doremon"
 numberInt = 321
 
 
+//การประกาศตัวแปรที่ไม่สามารถแก้ไขค่าได้ (ค่าคงที่)
+let conNameString = "Nobita"
+
+//conNameString = "Doramon" ไม่สามารถทำได้ เพราะเป็น let
+
